@@ -18,8 +18,3 @@
 - **Icons**: Lucide for clean and customizable iconography.
 - **Calendar**: React Calendar for intuitive scheduling and event management.
 - **Charts**: Smart Chart Library for visual data insights and analytics.
-
-### Installation & Setup 🚀
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/username/nexed.git

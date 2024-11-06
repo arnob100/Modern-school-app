@@ -15,37 +15,37 @@
 
   <h3>Tech Stack 💻</h3>
   <p><strong>Frontend:</strong></p>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Next.js_Logo.svg" alt="Next.js Logo" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="40" />
-  </div>
+  <ul>
+    <li><strong>Next.js:</strong> A popular React framework for building fast, static, and dynamic web applications with server-side rendering (SSR) and static site generation (SSG).</li>
+    <li><strong>React.js:</strong> A JavaScript library for building user interfaces, focusing on component-based architecture and efficient DOM updates.</li>
+    <li><strong>Tailwind CSS:</strong> A utility-first CSS framework that enables you to quickly style your application using predefined classes, promoting a responsive and customizable design.</li>
+  </ul>
 
   <p><strong>Backend:</strong></p>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" alt="PostgreSQL Logo" width="40" />
-    <img src="https://www.prisma.io/images/og-image.png" alt="Prisma Logo" width="40" />
-  </div>
+  <ul>
+    <li><strong>PostgreSQL:</strong> An open-source relational database management system (RDBMS) that supports advanced queries and transactions, used for managing and storing school-related data securely.</li>
+    <li><strong>Prisma:</strong> An ORM (Object Relational Mapping) tool for Node.js and TypeScript that simplifies database queries and management, improving development speed and code safety.</li>
+  </ul>
 
   <h3>Additional Tools:</h3>
   <p><strong>Validation:</strong></p>
-  <div>
-    <img src="https://react-hook-form.com/logo.png" alt="React Hook Form Logo" width="40" />
-    <img src="https://cdn.jsdelivr.net/npm/zod@3.16.1/logo.png" alt="Zod Logo" width="40" />
-  </div>
+  <ul>
+    <li><strong>React Hook Form:</strong> A library for handling forms in React applications, focusing on performance and easy validation with minimal re-renders.</li>
+    <li><strong>Zod:</strong> A TypeScript-first schema declaration and validation library, helping to enforce and validate the shape of data at runtime.</li>
+  </ul>
 
   <p><strong>Icons:</strong></p>
-  <div>
-    <img src="https://lucide.dev/static/favicon.png" alt="Lucide Icons" width="40" />
-  </div>
+  <ul>
+    <li><strong>Lucide Icons:</strong> A collection of high-quality open-source icons, customizable to fit the app's UI design needs.</li>
+  </ul>
 
   <p><strong>Calendar:</strong></p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/npm/react-calendar@3.0.0/dist/Calendar-Logo.png" alt="React Calendar" width="40" />
-  </div>
+  <ul>
+    <li><strong>React Calendar:</strong> A React component that provides an interactive calendar interface, ideal for scheduling and displaying school events.</li>
+  </ul>
 
   <p><strong>Charts:</strong></p>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Chartjs_logo.png" alt="Smart Chart" width="40" />
-  </div>
+  <ul>
+    <li><strong>Chart.js:</strong> A popular JavaScript library for creating interactive and animated charts, used for visualizing academic performance and other key metrics.</li>
+  </ul>
 </div>

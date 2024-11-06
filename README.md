@@ -49,3 +49,13 @@
     <li><strong>Chart.js:</strong> A popular JavaScript library for creating interactive and animated charts, used for visualizing academic performance and other key metrics.</li>
   </ul>
 </div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="46" alt="tailwindcss logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="postgresql logo" />
+</div>
+

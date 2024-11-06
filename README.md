@@ -13,8 +13,10 @@
 
 ### Tech Stack 💻
 - **Frontend**: Next.js, React, Tailwind CSS for a responsive and modern UI.
-- **Backend**: Next.js,Prisma as the ORM for database management.
-- **Validation**: Zod for schema validation and data validation.
+- **Backend**: Next.js,Postgres as database and prisma as orm.
+- 
+### additional tools : 
+- **Validation**: React hook form with Zod for schema validation and data validation.
 - **Icons**: Lucide for clean and customizable iconography.
 - **Calendar**: React Calendar for intuitive scheduling and event management.
 - **Charts**: Smart Chart Library for visual data insights and analytics.

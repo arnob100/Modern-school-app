@@ -1,10 +1,8 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/(dashboard)/list/lessons/page": "app/(dashboard)/list/lessons/page.js",
-  "/(dashboard)/list/exams/page": "app/(dashboard)/list/exams/page.js",
   "/(dashboard)/list/assignments/page": "app/(dashboard)/list/assignments/page.js",
   "/(dashboard)/list/results/page": "app/(dashboard)/list/results/page.js",
   "/(dashboard)/list/events/page": "app/(dashboard)/list/events/page.js",
-  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js"
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/list/classes/page": "app/(dashboard)/list/classes/page.js"
 }

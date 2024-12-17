@@ -1,8 +1,3 @@
 {
-  "/page": "app/page.js",
-  "/(dashboard)/list/assignments/page": "app/(dashboard)/list/assignments/page.js",
-  "/(dashboard)/list/results/page": "app/(dashboard)/list/results/page.js",
-  "/(dashboard)/list/events/page": "app/(dashboard)/list/events/page.js",
-  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
-  "/(dashboard)/list/classes/page": "app/(dashboard)/list/classes/page.js"
+  "/[[...sign-in]]/page": "app/[[...sign-in]]/page.js"
 }

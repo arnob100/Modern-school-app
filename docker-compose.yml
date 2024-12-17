@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    environment:
+      POSTGRES_USER: arnob
+      POSTGRES_PASSWORD: arnob12
+      POSTGRES_DB: skool_db
+    ports:
+      - "5432:5432"  # Expose PostgreSQL on the standard port
+    volumes:
+      - pgdata:/var/lib/postgresql/data  # Persistent storage for PostgreSQL data
+    restart: always  # Ensure the service restarts if it crashes
+
+volumes:
+  pgdata:
+    driver: local  # Persistent volume for PostgreSQL data

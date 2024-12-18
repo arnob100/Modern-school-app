@@ -13,6 +13,11 @@ Welcome to the **Student Management System**! This application is designed to si
 - **User Roles**: Multiple access levels for administrators, teachers, and students.
 - **Search and Filters**: Quickly find students or courses using advanced search functionality.
 - **Responsive Design**: Accessible from any device - mobile, tablet, or desktop.
+- **Announcements**: Publish school-wide or course-specific announcements.
+- **Notifications**: Keep all stakeholders informed with timely updates.
+- **Parent Role**: Allow parents to monitor their child's progress.
+- **Assignments**: Manage assignments and track submissions.
+- **Exams**: Schedule, manage, and record exam results.
 
 ---
 
@@ -20,11 +25,11 @@ Welcome to the **Student Management System**! This application is designed to si
 
 | Technology             | Description                              | Logo  |
 |------------------------|------------------------------------------|-------|
-| **Next.js**            | React framework for building fast apps  | ![Next.js](https://cdn.worldvectorlogo.com/logos/next-js.svg) |
-| **TypeScript**         | Strongly typed programming language      | ![TypeScript](https://cdn.worldvectorlogo.com/logos/typescript.svg) |
-| **Prisma**             | Database ORM for Node.js and TypeScript | ![Prisma](https://cdn.worldvectorlogo.com/logos/prisma-2.svg) |
-| **PostgreSQL**         | Open-source relational database system  | ![PostgreSQL](https://cdn.worldvectorlogo.com/logos/postgresql.svg) |
-| **Docker**             | Containerization platform                | ![Docker](https://cdn.worldvectorlogo.com/logos/docker.svg) |
+| **Next.js**            | React framework for building fast apps  | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50"> |
+| **TypeScript**         | Strongly typed programming language      | <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50"> |
+| **Prisma**             | Database ORM for Node.js and TypeScript | <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="50"> |
+| **PostgreSQL**         | Open-source relational database system  | <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50"> |
+| **Docker**             | Containerization platform                | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50"> |
 
 ---
 
@@ -32,10 +37,10 @@ Welcome to the **Student Management System**! This application is designed to si
 
 | Tool                  | Purpose                                    | Logo  |
 |-----------------------|--------------------------------------------|-------|
-| **React Calendar**    | Interactive calendar UI                   | ![React Calendar](https://cdn.worldvectorlogo.com/logos/react.svg) |
-| **Toastify**          | Toast notifications for user feedback     | ![Toastify](https://cdn.worldvectorlogo.com/logos/react.svg) |
-| **Zod**               | TypeScript-first schema validation        | ![Zod](https://cdn.worldvectorlogo.com/logos/typescript.svg) |
-| **React Hook Form**   | Form validation and state management      | ![React Hook Form](https://cdn.worldvectorlogo.com/logos/react.svg) |
+| **React Calendar**    | Interactive calendar UI                   | <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React Calendar" width="50"> |
+| **Toastify**          | Toast notifications for user feedback     | <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="Toastify" width="50"> |
+| **Zod**               | TypeScript-first schema validation        | <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Zod" width="50"> |
+| **React Hook Form**   | Form validation and state management      | <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React Hook Form" width="50"> |
 
 ---
 
@@ -128,8 +133,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 If you have any questions, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: ararnob1415@gmail.com
+- **GitHub**: [@arnob100](https://github.com/arnob100/Modern-school-app/)
 
 ---
 
@@ -140,4 +145,3 @@ If you have any questions, feel free to reach out:
 
 ---
 
-**If you found this project helpful, don't forget to give it a star! ⭐**
